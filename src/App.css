@@ -1,0 +1,193 @@
+h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 45px;
+}
+
+p{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+}
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+
+.dark-form {
+  background-color: #1e1e1e;
+  padding: 30px 0px;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+  width: 800px;
+  height:500px;
+}
+
+.form-heading {
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 20px;
+  font-size: 25px;
+ 
+}
+
+.form-label {
+  color: #b3b3b3;
+  margin-top: 15px;
+  display: block;
+  padding: 0px 10px;
+  font-size: 30px;
+}
+
+.form-input {
+  width: 100%;
+  height: 50px;
+  margin-top: 8px;
+  background-color: #2a2a2a;
+  border: 1px solid #444;
+  border-radius: 5px;
+  color: #ffffff;
+  font-size: 22px;
+  padding-left: 10px;
+}
+
+.form-input:focus {
+  outline: none;
+  border-color: #3a8fd4;
+}
+
+.form-submit {
+  width: 100%;
+  padding: 15px;
+  margin-top: 20px;
+  background-color: #3a8fd4;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 22px;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #121212;
+  font-family: Arial, sans-serif;
+}
+
+.table-container {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #1e1e1e;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+thead {
+  background-color: #333;
+}
+
+thead th {
+  padding: 15px;
+  text-transform: uppercase;
+  font-weight: 500;
+  border-bottom: 2px solid #444;
+}
+
+tbody tr {
+  transition: background 0.2s ease;
+}
+
+tbody tr:hover {
+  background-color: #2a2a2a;
+}
+
+tbody td {
+  padding: 24px;
+  border-bottom: 1px solid #444;
+}
+
+button {
+  padding: 12px 28px;
+  margin: 0 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.edit-btn {
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+.delete-btn {
+  background-color: #dc3545;
+  color: #ffffff;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+
+
+.form-submit:hover {
+  background-color: #1e7abe;
+}
+
+.form input[type="submit"]:hover {
+  background-color: darkcyan;
+}
+.testh{
+  color: rgb(224, 153, 0);
+} */
+.testp{
+  color: rgb(15, 201, 201);
+}
+.test2h{
+  color: rgb(151, 138, 163);
+}
+.test2p{
+  color: rgb(125, 0, 241);
+}
+.test3h{
+color: brown;
+}
+.test3p {
+  color:tomato ;
+}
+.test4h{
+  color: rgb(226, 34, 114);
+}
+.test4p{
+  color: chocolate;
+}

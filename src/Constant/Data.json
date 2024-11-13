@@ -1,0 +1,28 @@
+
+[
+    {
+      "id": 1,
+      "name": "Usman Ahmed",
+      "email": "usman@example.com",
+      "password": "usman123"
+    },
+    {
+      "id": 2,
+      "name": "Ali Khan",
+      "email": "ali@example.com",
+      "password": "ali456"
+    },
+    {
+      "id": 3,
+      "name": "Zeeshan Raza",
+      "email": "zeeshan@example.com",
+      "password": "zeeshan789"
+    },
+    {
+      "id": 4,
+      "name": "Haris Ali",
+      "email": "haris@example.com",
+      "password": "haris987"
+    }
+  ]
+  
